@@ -5,7 +5,6 @@
 Preprint and data for non-linear spectral structures without complexification (MSC 37-XX)
 
 ### 📑 Execution Pipeline & Roadmap
-
-![Figure 1]<img width="861" height="822" alt="figure01_loadmap" src="https://github.com/user-attachments/assets/6d1e01a5-d2f7-4fae-b0b4-c32979beb2c9" />
-
 This diagram illustrates the overall execution pipeline and the stage-indexed structural generation mechanism of the proposed framework.
+<img width="861" height="822" alt="figure01_loadmap" src="https://github.com/user-attachments/assets/6d1e01a5-d2f7-4fae-b0b4-c32979beb2c9" />
+
