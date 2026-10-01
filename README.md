@@ -4,6 +4,11 @@
 
 Preprint and data for non-linear spectral structures without complexification (MSC 37-XX)
 
+# Notice Regarding Terminology in the Paper Title
+Following a review of the theoretical framework, it has been determined that this work does not assume a “state-transition structure” as a premise of nonlinear dynamical systems.
+Accordingly, the term “non-Markovian” will be removed from the paper title going forward.
+The revised title will therefore omit the term “non-Markovian.”
+
 ## 📐 Mathematical Architecture & Computation Flow
 
 To help readers and contributors navigate the codebase and theoretical layout, this section clarifies the duality between our **Expository Structure (Top-down)** and **Computational Pipeline (Bottom-up)**.
